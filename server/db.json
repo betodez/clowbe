@@ -1,0 +1,154 @@
+{
+  "horarios": [
+    {
+      "id": 1,
+      "hora": "08:00 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 2,
+      "hora": "08:30 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 3,
+      "hora": "09:00 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 4,
+      "hora": "09:30 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 5,
+      "hora": "10:00 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 6,
+      "hora": "10:30 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 7,
+      "hora": "11:00 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 8,
+      "hora": "11:30 A.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 9,
+      "hora": "12:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 10,
+      "hora": "12:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 11,
+      "hora": "01:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 12,
+      "hora": "01:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 13,
+      "hora": "02:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 14,
+      "hora": "02:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 15,
+      "hora": "03:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 16,
+      "hora": "03:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 17,
+      "hora": "04:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 18,
+      "hora": "04:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 19,
+      "hora": "05:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 20,
+      "hora": "05:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 21,
+      "hora": "06:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 22,
+      "hora": "06:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 23,
+      "hora": "07:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 24,
+      "hora": "07:30 P.M",
+      "recursos": 8,
+      "usuarios": []
+    },
+    {
+      "id": 25,
+      "hora": "08:00 P.M",
+      "recursos": 8,
+      "usuarios": []
+    }
+  ]
+}
